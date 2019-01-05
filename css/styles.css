@@ -1,0 +1,23 @@
+ 
+    .emoji {
+      font-size: 8px;
+      color: red;
+    }
+
+    body {
+      background: #EAF6F6;
+    }
+
+    hr {
+
+      border: 0px;
+      border-bottom: 3px dotted lightgray;
+      width : 5%;
+    }
+
+
+    h1, h3 {
+      font-family: sans-serif;
+      color: #66bfbf;
+    }
+
